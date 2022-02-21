@@ -30,7 +30,7 @@ Your solution ...
 ### Format
 
 fisrt take a look at [`./week_00`](./week_00/).
-for each excercies add a new folder `./excercies_x` containing the following file:
+for each exercises add a new folder `./exercise_x` containing the following file:
     - `question.md` a markdown file containing the question (you can copy paste this directly from code expert)
     - `*.cpp, *.h ...` all cpp related files present in the filesystem of the code expert instance.
     - `*.py` solutions are also allowed as python files, only use the standardlibrary. Your code should be compatible with `>=python3.8`.
